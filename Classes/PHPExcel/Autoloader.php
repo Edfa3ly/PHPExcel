@@ -1,6 +1,6 @@
 <?php
 
-PHPExcel_Autoloader::register();
+//PHPExcel_Autoloader::register();
 //    As we always try to run the autoloader before anything else, we can use it to do a few
 //        simple checks and initialisations
 //PHPExcel_Shared_ZipStreamWrapper::register();
